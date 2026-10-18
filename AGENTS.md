@@ -1,6 +1,12 @@
 # falai-code
 
-Guia para agentes de código (e pessoas) que trabalham neste repositório.
+Uma aplicação que permite usar agentes de código pelo terminal em conversa
+natural: você fala o que quer, o agente trabalha e a resposta volta em voz alta,
+como numa conversa com uma pessoa. Não é preciso digitar comandos nem ler
+blocos de código para acompanhar o que está acontecendo.
+
+Este arquivo é o guia para agentes de código (e pessoas) que trabalham neste
+repositório.
 
 ## Objetivo
 
